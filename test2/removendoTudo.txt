@@ -1,1 +1,2 @@
 Agora estou removendo todos os .txt que tinha aqui presente !
+Agora estou fazerdo essa escrita para fazer um git pull e utilizar um git checkout e limpar ele.
